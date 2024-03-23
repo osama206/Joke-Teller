@@ -12,13 +12,13 @@ This repository contains the source code for a simple web application called "Jo
 
 1. Clone the repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/osama206/joke-teller.git
    ```
 
 2. Open the project directory:
 
-   ```bash
+   ```
    cd joke-teller
    ```
 
