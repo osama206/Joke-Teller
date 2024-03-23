@@ -13,13 +13,13 @@ This repository contains the source code for a simple web application called "Jo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/osama206/Joke-Teller.git
+   git clone https://github.com/osama206/joke-teller.git
    ```
 
 2. Open the project directory:
 
    ```bash
-   cd Joke-Teller
+   cd joke-teller
    ```
 
 3. Open the `script.js` file in a text editor and replace `'YOUR_API_KEY_HERE'` with your VoiceRSS API key. You can obtain a free API key by signing up on the [VoiceRSS website](https://www.voicerss.org/).
